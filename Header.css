@@ -1,0 +1,48 @@
+.header__logo{
+    height:75px;
+    width:125px;
+    cursor:pointer;
+}
+
+.header{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    position:sticky;
+    top:0;
+    z-index:100;
+    background-color:white;
+}
+
+.header__input{
+    height:25px;
+    border:none;
+    flex:1;
+}
+
+.header__right{
+    display:flex;
+    align-items:center;
+}
+
+.header__left{
+    display:flex;
+    align-items:center;
+}
+
+.header__center{
+    border:1px solid black
+}
+
+.header > div > *{
+    padding-left:10px;
+    padding-right:10px
+}
+
+.header__searchicon{
+    width:30px;
+}
+
+svg{
+    cursor:pointer;
+}

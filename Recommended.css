@@ -1,0 +1,6 @@
+.recommended{
+    display:flex;
+    flex-wrap:wrap;
+    flex:0.8;
+    padding:40px 20px 0;
+}

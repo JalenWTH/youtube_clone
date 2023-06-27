@@ -1,0 +1,13 @@
+.videoCard{
+    margin-bottom:40px;
+    width:320px
+}
+
+.videoCard__thumbnail{
+    height:200px;
+    width:300px;
+}
+
+.videoCard__text > * {
+    font-family:Arial, Helvetica, sans-serif;
+}
