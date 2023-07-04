@@ -1,0 +1,9 @@
+.searchPage{
+    flex:0.8
+}
+
+.searchPage__filter{
+    display:flex;
+    align-items:center;
+    font-size:small
+}
